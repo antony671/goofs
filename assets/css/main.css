@@ -1567,6 +1567,7 @@ body {
 @media (max-width:1000px) {
 	.intro--banner h1{
 		font-size: 25px;
+		top:190px;
 	}
 	
 }
