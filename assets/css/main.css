@@ -1075,7 +1075,7 @@ body {
 		width: 315px
 	}
 }
-@media (max-width: 600px) {
+@media (max-width: 300px) {
 	.about--banner {
 		height: auto
 	}
@@ -1557,4 +1557,23 @@ body {
 	position: absolute;
 	right:400px;
 	top: 150px;
+}
+
+
+
+
+
+
+@media (max-width:1000px) {
+	.intro--banner h1{
+		font-size: 25px;
+	}
+	
+}
+@media (max-width:1000px) {
+	.intro--banner video{
+		width: 100%;
+		bottom: -100px;
+	}
+
 }
