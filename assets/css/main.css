@@ -726,8 +726,7 @@ body {
 		display: none
 	}
 }
-@media (max-width: 600px) and (max-height: 700
-	px) {
+@media (max-width: 600px) and (max-height: 700px) {
 	.intro--banner {
 		height: auto
 	}
